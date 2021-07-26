@@ -1,0 +1,40 @@
+h1 {
+    color: blue;
+    background-color: burlywood;
+    text-align: center;
+    width: 100;
+}
+
+input[type=text] {
+    border-radius: 7px;
+    padding: 5px;
+    margin: 10px;
+    font-weight: light;
+    width: 300px
+}
+
+.search_options {
+    margin-top: 10px;
+    text-align: right;
+}
+.search_section {
+    margin-top: 10px;
+    padding-top: 5px;
+    margin: 15px;
+    text-align: center;
+}
+
+
+#as_button {
+    background-color: blue;
+    color: white;
+    align-self: flex-end;
+}
+
+.lblAS{
+    text-align: left;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
